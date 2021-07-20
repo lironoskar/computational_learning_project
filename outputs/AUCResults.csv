@@ -1,0 +1,21 @@
+﻿,Dataset Name,label propagate,label propagate-Improve,CNN- VGG
+0,Cifar100-large_omnivores_and_herbivores-reptiles,0.500896,0.532055024,0.53388556
+1,Cifar100-reptiles-fruit_and_vegetables,0.53732,0.549313894,0.555113487
+2,Cifar100-fruit_and_vegetables-people,0.511018,0.493429839,0.518537033
+3,Cifar100-people-fish,0.517309,0.475319601,0.534372926
+4,Cifar100-fish-household_electrical_devices,0.486403,0.515635045,0.521095234
+5,Cifar100-household_electrical_devices-vehicles_1,0.533257,0.5153371,0.506508792
+6,Cifar100-vehicles_1-food_containers,0.483266,0.503624528,0.509342806
+7,Cifar100-food_containers-large_natural_outdoor_scenes,0.507494,0.519932703,0.530760496
+8,Cifar100-large_natural_outdoor_scenes-trees,0.525135,0.536185752,0.503785698
+9,Cifar100-trees-flowers,0.454466,0.549618578,0.548666592
+10,Cifar100-flowers-large_man-made_outdoor_things,0.495371589,0.526191571,0.513847901
+11,Cifar100-large_man-made_outdoor_things-large_carnivores,0.523763206,0.510354546,0.504971435
+12,Cifar100-large_carnivores-small_mammals,0.506791705,0.503617337,0.465154089
+13,Cifar100-small_mammals-household_furniture,0.489668794,0.522016377,0.485713663
+14,Cifar100-household_furniture-medium_mammals,0.522602198,0.5103104,0.50507839
+15,Cifar100-medium_mammals-vehicles_2,0.467348557,0.522939851,0.514413142
+16,Cifar100-vehicles_2-insects,0.494317797,0.528995118,0.52181618
+17,Cifar100-insects-non-insect_invertebrates,0.564200943,0.522345128,0.486819355
+18,Cifar100-non-insect_invertebrates-aquatic_mammals,0.490187921,0.557249972,0.520124521
+19,Cifar100-aquatic_mammals-large_omnivores_and_herbivores,0.503031093,0.527039859,0.487802103
